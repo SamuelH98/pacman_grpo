@@ -1,4 +1,4 @@
-# ![Pac-Man Icon](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fnohat.cc%2Ff%2Fsvg-pac-man%2Ffreesvgorg186034-202109241625.html&ved=0CBYQjRxqFwoTCMDKys-Bo5EDFQAAAAAdAAAAABAE&opi=89978449) GRPO for Pacman
+# ![Pac-Man Icon](https://upload.wikimedia.org/wikipedia/commons/4/49/Pacman.svg) GRPO for Pacman
 
 > **⚠️ IMPORTANT ATTRIBUTION**: This project uses the Pacman game environment from [pacmancode.com](http://pacmancode.com). The Pacman game code is **not included in this repository** and must be obtained separately from the original source. Please respect the original author's work and licensing terms.
 
