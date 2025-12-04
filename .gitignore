@@ -1,0 +1,6 @@
+.venv/
+pycache__/
+*.pyc
+__pycache__/
+
+src/Pacman_Complete/

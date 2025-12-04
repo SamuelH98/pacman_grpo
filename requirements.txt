@@ -1,0 +1,7 @@
+numpy
+torch
+tensorboardX
+tensorboard
+pygame
+opencv-python
+tqdm
